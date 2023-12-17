@@ -1,1 +1,1 @@
-This is a homestay reserveation system group project for CSC584 enterprise programming using Java EE
+This is a homestay reservation system for hazra homestay. A group project for enterprise programming using Java EE
